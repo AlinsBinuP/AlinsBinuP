@@ -30,5 +30,5 @@
 ---
 
 ### 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/-@futlote-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/futlote)
-[![YouTube](https://img.shields.io/badge/YouTube-%40futlotest-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@futlotest)
+[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/futlote)  
+[![YouTube](https://img.shields.io/badge/YouTube-fff?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@futlotest)
