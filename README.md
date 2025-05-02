@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Alins Binu!  
+**BTech CSE | Flutter Developer | UI/UX Enthusiast | Content Creator**
 
-<!--
-**AlinsBinuP/AlinsBinuP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building sleek mobile apps with **Flutter**
+- Completed a dynamic **Weather App** with forecast and theming
+- Designing smooth interfaces with **Figma**
+- Sharing tech tips and content on Instagram & YouTube at **@futlotest**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+### 📱 Projects
+- [Weather App](https://github.com/your-username/weather-app) – **Real-time forecast**, search by city, **dark/light theming**, built in Flutter
+- [To-Do List (C)](https://github.com/your-username/todo-list-c) – CLI-based task manager using **circular linked list**
+
+---
+
+### 📈 GitHub Stats
+![Alins's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinsbinu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinsbinu&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+[![Instagram](https://img.shields.io/badge/-@futlote-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/futlote)
+[![YouTube](https://img.shields.io/badge/YouTube-%40futlotest-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@futlotest)
