@@ -84,7 +84,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alins-binu" target="_blank">
+  <a href="https://www.linkedin.com/in/alins-binu-4351b6292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
