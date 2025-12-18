@@ -2,48 +2,9 @@
 
 # 👋 Hey there, I'm **Alins Binu**
 
-<!-- Animated Flutter Logo -->
-<svg width="160" height="160" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="flutterGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#42A5F5">
-        <animate attributeName="stop-color" values="#42A5F5;#7C4DFF;#42A5F5" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#00E5FF">
-        <animate attributeName="stop-color" values="#00E5FF;#18FFFF;#00E5FF" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
+### 💻 Computer Science Student | 🎨 UI/UX Designer | 🎥 Content Creator
 
-  <path d="M148 24L24 148L56 180L180 56L148 24Z" fill="url(#flutterGradient)">
-    <animateTransform attributeName="transform" type="translate"
-      from="0 -6" to="0 6" dur="2s" repeatCount="indefinite" direction="alternate"/>
-  </path>
-
-  <path d="M180 56L56 180L88 212L212 88L180 56Z" fill="url(#flutterGradient)">
-    <animateTransform attributeName="transform" type="translate"
-      from="0 6" to="0 -6" dur="2s" repeatCount="indefinite" direction="alternate"/>
-  </path>
-</svg>
-
-<!-- Animated Gradient Subtitle -->
-<svg width="600" height="60">
-  <defs>
-    <linearGradient id="textGradient" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#42A5F5"/>
-      <stop offset="100%" stop-color="#7C4DFF"/>
-    </linearGradient>
-  </defs>
-
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="26" font-weight="600"
-        fill="url(#textGradient)"
-        font-family="Segoe UI, Arial">
-    Flutter Developer • UI/UX Designer • Content Creator
-  </text>
-</svg>
-
-*Building animated mobile apps, crafting clean UI, and inspiring 50K+ creators*
+*Building intelligent applications, crafting beautiful interfaces, and sharing knowledge with 50K+ creators*
 
 [![YouTube](https://img.shields.io/badge/YouTube-50K+-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@futlotest)
 [![Instagram](https://img.shields.io/badge/Instagram-2M%2B%20Views-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/futlote)
@@ -55,86 +16,113 @@
 
 ## 🚀 About Me
 
-```ts
+```typescript
 const alins = {
-  education: "B.Tech Computer Science (3rd Year)",
-  specialization: "Flutter & Mobile UI Animations",
-  interests: ["Flutter", "AI/ML", "UI/UX", "Content Creation"],
-  currentlyLearning: ["Advanced Flutter Animations", "React", "JavaScript"],
-  funFact: "I turn Flutter widgets into experiences ✨"
+    education: "B.Tech Computer Science (3rd Year)",
+    interests: ["AI/ML", "Mobile Development", "UI/UX Design", "Content Creation"],
+    currentlyLearning: ["React", "JavaScript", "Advanced Flutter"],
+    funFact: "I turn code into content and content into inspiration ✨"
 };
-🛠️ Tech Stack
+```
+
+- 🔭 Building advanced **Flutter applications** with elegant UI/UX
+- 🌱 Exploring **Machine Learning**, **Graph Theory**, and **Embedded Systems**
+- 🎨 Designing minimal, modern interfaces in **Figma**
+- 🎥 Creating tech content for **50K+ YouTube subscribers**
+- 📱 Viral content creator on Instagram with **2M+ reel views**
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-Languages
 
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-
-
-
-
-
-Frameworks & Tools
-
-
-
-
-
-
-
-
-
-
-AI / ML
-
-
-
-
-
+### AI/ML
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
-💼 Featured Projects
-<div align="center">
-🚀 Project	✨ Highlights	🔧 Tech
-🌤️ Weather App	Animated UI, Day/Night themes, smooth transitions	Flutter
-🏫 Sunday School App	Admin/User roles, dashboard animations	Flutter
-🧠 Sentiment Analysis	Text emotion classification	Python, ML
-📊 Salary Predictor	ML web app with Streamlit UI	Python
-🗂️ CLI To-Do	Circular linked list based task manager	C
-</div>
-📊 GitHub Analytics
+
+---
+
+## 💼 Featured Projects
+
 <div align="center">
 
-
-
-
-
+| 🎯 Project | 📝 Description | 🔧 Tech Stack |
+|:-----------|:--------------|:-------------|
+| 🌤️ **Weather App** | Real-time weather forecast with dynamic theming | Flutter, OpenWeather API |
+| 🧠 **Sentiment Analysis** | AI-based text emotion classifier | Python, Scikit-learn |
+| 📊 **Salary Predictor** | ML web app for employee salary prediction | Python, Pandas, Streamlit |
+| 🗂️ **CLI To-Do** | Task tracker using circular linked list | C |
+| 🏫 **Sunday School App** | Multi-user app with admin/user roles | Flutter |
 
 </div>
-🎥 Content Creation
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
+  
+![Alins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlinsBinuP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
 
-📺 YouTube — 50K+ Subscribers
-Tech tutorials • Flutter projects • Coding tips
-👉 https://www.youtube.com/@futlotest
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlinsBinuP&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
-📸 Instagram — 2M+ Views
-Short coding reels & UI breakdowns
-👉 https://instagram.com/futlote
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinsBinuP&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
 </div>
-🌐 Let’s Connect
+
+---
+
+## 🎥 Content Creation
+
 <div align="center">
 
+### 📺 YouTube: [@futlotest](https://www.youtube.com/@futlotest)
+*50K+ subscribers | Tech tutorials, coding tips, and project walkthroughs*
 
-
+### 📸 Instagram: [@futlote](https://instagram.com/futlote)
+*2M+ reel views | Quick tech tips, coding reels, and behind-the-scenes*
 
 </div>
+
+---
+
+## 🌐 Let's Connect
+
 <div align="center">
-💭 Design. Animate. Code. Inspire.
 
-⭐ If you like my work, consider starring a repo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alins-binu-4351b6292)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinsbinu@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@futlotest)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/futlote)
 
-</div> ```
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Design. Code. Create. Inspire."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=AlinsBinuP&color=F85D7F&style=for-the-badge)
+
+⭐ **If you find my work interesting, consider giving it a star!**
+
+</div>
