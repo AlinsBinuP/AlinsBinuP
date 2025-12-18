@@ -63,3 +63,78 @@ const alins = {
   currentlyLearning: ["Advanced Flutter Animations", "React", "JavaScript"],
   funFact: "I turn Flutter widgets into experiences ✨"
 };
+🛠️ Tech Stack
+<div align="center">
+Languages
+
+
+
+
+
+
+
+
+
+
+Frameworks & Tools
+
+
+
+
+
+
+
+
+
+
+AI / ML
+
+
+
+
+
+
+</div>
+💼 Featured Projects
+<div align="center">
+🚀 Project	✨ Highlights	🔧 Tech
+🌤️ Weather App	Animated UI, Day/Night themes, smooth transitions	Flutter
+🏫 Sunday School App	Admin/User roles, dashboard animations	Flutter
+🧠 Sentiment Analysis	Text emotion classification	Python, ML
+📊 Salary Predictor	ML web app with Streamlit UI	Python
+🗂️ CLI To-Do	Circular linked list based task manager	C
+</div>
+📊 GitHub Analytics
+<div align="center">
+
+
+
+
+
+
+</div>
+🎥 Content Creation
+<div align="center">
+
+📺 YouTube — 50K+ Subscribers
+Tech tutorials • Flutter projects • Coding tips
+👉 https://www.youtube.com/@futlotest
+
+📸 Instagram — 2M+ Views
+Short coding reels & UI breakdowns
+👉 https://instagram.com/futlote
+
+</div>
+🌐 Let’s Connect
+<div align="center">
+
+
+
+
+</div>
+<div align="center">
+💭 Design. Animate. Code. Inspire.
+
+⭐ If you like my work, consider starring a repo!
+
+</div> ```
