@@ -1,10 +1,49 @@
 <div align="center">
 
-# 👋 Hey there, I'm **Alins Binu** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# 👋 Hey there, I'm **Alins Binu**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=💻+Computer+Science+Student;🎨+UI/UX+Designer;📱+Flutter+Developer;🎥+Content+Creator)
+<!-- Animated Flutter Logo -->
+<svg width="160" height="160" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="flutterGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#42A5F5">
+        <animate attributeName="stop-color" values="#42A5F5;#7C4DFF;#42A5F5" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00E5FF">
+        <animate attributeName="stop-color" values="#00E5FF;#18FFFF;#00E5FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
 
-*Crafting beautiful Flutter apps, designing modern interfaces, and sharing knowledge with 50K+ creators*
+  <path d="M148 24L24 148L56 180L180 56L148 24Z" fill="url(#flutterGradient)">
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -6" to="0 6" dur="2s" repeatCount="indefinite" direction="alternate"/>
+  </path>
+
+  <path d="M180 56L56 180L88 212L212 88L180 56Z" fill="url(#flutterGradient)">
+    <animateTransform attributeName="transform" type="translate"
+      from="0 6" to="0 -6" dur="2s" repeatCount="indefinite" direction="alternate"/>
+  </path>
+</svg>
+
+<!-- Animated Gradient Subtitle -->
+<svg width="600" height="60">
+  <defs>
+    <linearGradient id="textGradient" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#42A5F5"/>
+      <stop offset="100%" stop-color="#7C4DFF"/>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="26" font-weight="600"
+        fill="url(#textGradient)"
+        font-family="Segoe UI, Arial">
+    Flutter Developer • UI/UX Designer • Content Creator
+  </text>
+</svg>
+
+*Building animated mobile apps, crafting clean UI, and inspiring 50K+ creators*
 
 [![YouTube](https://img.shields.io/badge/YouTube-50K+-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@futlotest)
 [![Instagram](https://img.shields.io/badge/Instagram-2M%2B%20Views-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/futlote)
@@ -14,12 +53,13 @@
 
 ---
 
-## 🚀 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+## 🚀 About Me
 
-```dart
-class Alins {
-  final String education = "B.Tech Computer Science (3rd Year)";
-  final List<String> interests = ["Flutter", "AI/ML", "UI/UX Design", "Content Creation"];
-  final List<String> currentlyLearning = ["Advanced Flutter", "React", "JavaScript"];
-  final String funFact = "I turn code into content and content into inspiration ✨";
-}
+```ts
+const alins = {
+  education: "B.Tech Computer Science (3rd Year)",
+  specialization: "Flutter & Mobile UI Animations",
+  interests: ["Flutter", "AI/ML", "UI/UX", "Content Creation"],
+  currentlyLearning: ["Advanced Flutter Animations", "React", "JavaScript"],
+  funFact: "I turn Flutter widgets into experiences ✨"
+};
