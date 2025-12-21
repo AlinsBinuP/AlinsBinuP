@@ -52,9 +52,9 @@ class FlutterDeveloper {
 
 | App | Highlights |
 |----|------------|
-| Weather App | Glassmorphism UI, animations |
+| Prism Studio | Complete AI Hub |
 | Sunday School App | Role-based dashboards |
-| Salary Predictor | Flutter + ML |
+| QRQode | Flutter |
 | CLI To-Do | Circular Linked List (C) |
 
 ---
